@@ -1,0 +1,21 @@
+.c1{
+    font-family:cursive;
+    color:#7eca9c;
+    font-size: 3.5rem;
+  
+}
+
+.c2{
+    font-family: fantasy;
+    color: #3a6351;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.inpt{
+    display: inline;
+}
+.btn{
+    display: inline;
+}
